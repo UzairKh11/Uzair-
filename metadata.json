@@ -1,0 +1,6 @@
+{
+  "name": "Death Note",
+  "description": "A terrifying gothic Shinigami execution portal and reverse countdown inspired by Death Note.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
